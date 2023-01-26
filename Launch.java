@@ -4,7 +4,7 @@ class Launch
      {
          System.out.prinln("hello java");
      }
-     void m2()
+     void m3()
      {
          System.out.prinln("hello java");
      }
