@@ -2,7 +2,7 @@ public class PatternE
 {
     public static void main(String []args)
     {
-      int n=11;
+      int n=12;
       for(int i=0;i<n;i++)
       {
         for(int j=0;j<n;j++)
