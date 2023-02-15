@@ -12,7 +12,7 @@ public class all
            all stu2 = new all();
            stu1.name="Suvrat";
            stu1.marks=56;
-           stu2.marks=78;
+           stu2.marks=76;
            stu2.name="Himanshu";
            stu2.cls=11;
            stu1.cls=11;
