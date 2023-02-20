@@ -13,6 +13,7 @@ public class launch
         System.out.println(s1.equals(s2));
         System.out.println(s1==s3);
         System.out.println(s1.equals(s3));
+        System.out.println(s1.equalsIgnoreCase(s3));    // equalsIgnoreCase check the value without being case sensitive
         
     }
     
