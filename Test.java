@@ -2,7 +2,8 @@ public class Test {
 
     public static void main(String[] args) {
     
-    StringBuilder sb = new StringBuilder("Good"); //Line 3 change(sb); //Line 4
+    StringBuilder sb = new StringBuilder("Good"); //Line 3 
+    change(sb); //Line 4
     
     System.out.println(sb); //Line 5
     
