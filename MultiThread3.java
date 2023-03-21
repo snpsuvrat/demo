@@ -43,12 +43,12 @@ public class MultiThread3
 {
     public static void main(String[] args) 
     {
-          Calc cal=new Calc();
+          Calc t1=new Calc();
 
-          message mes=new message();
+          message t2=new message();
 
-          cal.start();
-          mes.start();
+          t1.start();
+          t2.start();
 
           
     }
