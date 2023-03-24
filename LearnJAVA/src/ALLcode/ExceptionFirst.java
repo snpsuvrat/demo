@@ -1,3 +1,5 @@
+package ALLcode;
+
 public class ExceptionFirst
 {
     public static void main(String[] args) {

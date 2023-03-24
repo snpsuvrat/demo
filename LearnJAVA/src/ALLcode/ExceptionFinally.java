@@ -1,3 +1,5 @@
+package ALLcode;
+
 import java.util.Scanner;
 
 public class ExceptionFinally 
