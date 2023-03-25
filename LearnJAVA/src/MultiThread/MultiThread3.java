@@ -1,3 +1,5 @@
+package MultiThread;
+
 import java.util.Scanner;
 
 class Calc extends Thread{
