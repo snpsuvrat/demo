@@ -1,3 +1,5 @@
+package ALLcode;
+
 import javax.swing.text.MaskFormatter;
 
 public class all
