@@ -1,3 +1,4 @@
+package ALLcode;
 public class PatternD
 {
     public static void main(String []args)
