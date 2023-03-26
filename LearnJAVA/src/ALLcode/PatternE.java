@@ -1,3 +1,5 @@
+package ALLcode;
+
 public class PatternE
 {
     public static void main(String []args)
