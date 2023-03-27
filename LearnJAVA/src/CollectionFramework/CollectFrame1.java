@@ -48,7 +48,15 @@ public class CollectFrame1
        al3.addAll(al2);
 
        System.out.println(al3);
-       
+
        System.out.println("****************************************************************");
+
+       al3.add(2, "pwskills");
+
+       System.out.println(al3);
+
+       al3.addAll(2, al1);
+
+       System.out.println(al3);
     }
 }
