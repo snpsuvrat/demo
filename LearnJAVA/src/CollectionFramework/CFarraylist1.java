@@ -2,7 +2,7 @@ package CollectionFramework;
 
 import java.util.*;
 
-public class CollectFrame1
+public class CFarraylist1
 {
     public static void main(String[] args) 
     {
