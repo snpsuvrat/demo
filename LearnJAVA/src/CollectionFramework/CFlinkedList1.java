@@ -1,0 +1,43 @@
+package CollectionFramework;
+
+import java.util.LinkedList;
+
+public class CFlinkedList1 {
+    public static void main(String[] args) 
+    {
+        LinkedList ll1 = new LinkedList();
+
+        ll1.add(100);
+        ll1.add(200);
+        ll1.add(300);
+
+        System.out.println(ll1);
+       
+        LinkedList ll2 =new LinkedList();
+
+        ll2.add("pw");
+        ll2.add(111);
+        ll2.add('j');
+        ll2.add(2);
+
+        System.out.println(ll2);
+
+        LinkedList ll3 = new LinkedList();
+        ll3.add(10);
+        ll3.add(20);
+        ll3.add(30);
+
+        
+        System.out.println(ll3);
+
+        ll3.addFirst("p2");
+        ll3.addLast(400);
+
+        System.out.println(ll3);
+
+        ll3.add(2, 500);
+
+        System.out.println(ll3);
+
+    }
+}
