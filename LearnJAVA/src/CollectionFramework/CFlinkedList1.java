@@ -10,6 +10,7 @@ public class CFlinkedList1 {
         ll1.add(100);
         ll1.add(200);
         ll1.add(300);
+        ll1.add(200);  //duplicates are allowed
 
         System.out.println(ll1);
        
