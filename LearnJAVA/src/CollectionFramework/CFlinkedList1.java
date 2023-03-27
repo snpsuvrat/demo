@@ -39,5 +39,9 @@ public class CFlinkedList1 {
 
         System.out.println(ll3);
 
+        System.out.println(ll3.peek());
+        System.out.println(ll3);
+        System.out.println(ll3.poll());
+        System.out.println(ll3);
     }
 }
