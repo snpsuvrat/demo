@@ -1,3 +1,4 @@
+package ALLcode;
 class LocalVar
 {
     int age;            //Object knows       //Innstance Variable
