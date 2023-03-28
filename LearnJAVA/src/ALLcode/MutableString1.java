@@ -1,3 +1,4 @@
+package ALLcode;
 public class MutableString1 
 {
     public static void main(String[] args) 
