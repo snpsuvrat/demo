@@ -1,3 +1,4 @@
+package ALLcode;
 import javax.swing.event.SwingPropertyChangeSupport;
 
 public class MutableString 
