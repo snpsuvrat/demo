@@ -1,3 +1,4 @@
+package ALLcode;
 public class GivenPattern 
 {
     public static void main(String []args)
