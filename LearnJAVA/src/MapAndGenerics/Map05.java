@@ -40,7 +40,7 @@ public class Map05
            e=null; //eligible for Garbage Collector ;
            System.out.println(e);
            System.gc(); //Garbage Collector will be  invoked ; it will call finalised method
-
+           System.out.println(hm);
            System.out.println("Last Line");
     }
 }
